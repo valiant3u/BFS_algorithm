@@ -1,6 +1,6 @@
 🔍 Shortest Path Visualizer (BFS)
 
-This is a Python project. It implements a Breadth-First Search (BFS) algorithm to efficiently find the shortest path between two nodes similar to a network topology. This program uses Matplotlib's [Networkx](https://networkx.org/documentation/stable/auto_examples/basic/index.html) package.
+This is a Python project. It implements Prim's Algorithm and Breadth-first search logic to efficiently find the shortest path between two nodes similar to a network topology. This program uses Matplotlib's [Networkx](https://networkx.org/documentation/stable/auto_examples/basic/index.html) package.
 
 <img src="images/BFS.png" width="400"/>
 
